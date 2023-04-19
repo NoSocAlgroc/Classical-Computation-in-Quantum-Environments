@@ -1,5 +1,13 @@
 # Classical-Computation-in-Quantum-Environments
 
+Here can be found the original document in Catalan for my final thesis. It serves as an extremely comprehensive entry point to the world of Quantum
+Computation for readers of any background, giving introductions in both the required Linear Algebra and Computer Architecture. It shows a plethora of algorithms and
+architectures to perform some basic arithmetic operations, and provides generalizable schemas to build more complex operations from simpler blocks, always analyzing the tradeoff between spatial and temporal costs.
+
+The goal of this document is to serve as a guide to anyone that desires to implement a quantum algorithm that requires an execution of a numerical function on each state in superposition.
+
+## Abstract
+
 Modern cryptography is based on the difficulty of the factoring problem to ensure secure
 communication, so the discovery of a polynomial-time algorithm to find prime factors in a quantum computer placed quantum computation in the spotlight of the scientific community.
 
